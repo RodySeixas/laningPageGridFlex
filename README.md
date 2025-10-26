@@ -3,4 +3,4 @@
 -HTML
 -CSS
 ## descrição
--Landing page desenvolvida com auxilio dos irmãos dev em dobre pelo curso dev quest.
+-Landing page desenvolvida com auxilio dos irmãos dev em dobro, por meio do curso dev quest.
